@@ -1,0 +1,6 @@
+flask==0.12
+numpy>=1.14.1
+pandas>=0.22.1
+tmdbsimple==2.2.0
+scikit-learn>=0.18.1
+scipy>=1.1.0
